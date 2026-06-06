@@ -47,7 +47,7 @@ This project demonstrates the design and simulation of an Inverting DC-DC Buck-B
 
 ### Output Waveform
 
-<img src="buck_boost_waveform_case2.png" alt="Buck Boost Converter Waveform Case 2" width="700"/>
+<img src="https://github.com/SujalPatil1616/Buck-Boost-Converter/blob/main/case2%20waveform.png" alt="Buck Boost Converter Waveform Case 2" width="700"/>
 
 ### Observation
 
