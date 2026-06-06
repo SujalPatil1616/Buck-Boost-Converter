@@ -43,7 +43,7 @@ This project demonstrates the design and simulation of an Inverting DC-DC Buck-B
 
 ### Circuit Diagram
 
-<img src="buck_boost_circuit_case2.png" alt="Buck Boost Converter Circuit Case 2" width="700"/>
+<img src="https://github.com/SujalPatil1616/Buck-Boost-Converter/blob/main/Case2%20circuit%20diagram.png" alt="Buck Boost Converter Circuit Case 2" width="700"/>
 
 ### Output Waveform
 
